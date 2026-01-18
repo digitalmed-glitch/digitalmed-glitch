@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
 </p>
+
 ### **DevOps & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
@@ -34,12 +35,3 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 </p>
-## 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adel-12-ai&show_icons=true&theme=tokyonight" alt="Adel's Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adel-12-ai&theme=tokyonight" alt="Adel's Streak">
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk0bGJtOGVjY2VxYjB6Y2V5Z2V6Z2JjZ3R4aG5xZ2NqYzB1eWZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</div>
